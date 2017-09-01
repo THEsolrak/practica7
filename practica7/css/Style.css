@@ -1,0 +1,65 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{ 
+	background-color:#E53D56;
+	font-family:Segoe UI Ligth, Calibri;
+	font-size:12;
+	}
+	h1{
+		font-family:Segoe UI Ligth, Calibri;
+	font-size:16px;
+	color:#E7F9FF;
+	}
+	table{
+		width:100%;
+	}
+	td{
+		vertical-align:top;
+	}
+	ul{
+		list-style: none;
+		margin-top:0px;
+	}
+	ul li{
+		font-family:Calibri,Georgia,serif;
+		font-size:18px;
+	}
+	ul li a{
+		display:block;
+		background-color:#F1FFFB;
+		color:#FF0000;
+		height:30px;
+		width:150px;
+		padding-left:10px;
+	}
+	ul li a:hover{
+		-moz-transform:rotate(-5deg);
+		-moz-box-shadow:10px 10px 20px 20px #4C36E8;
+		-webkit-transform:rotate(-5deg);
+		-webkit-box-shadow:10px 10px 20px 20px #4C36E8;
+		transform:rotate(4deg);
+		box-shadow:10px 10px 20px 20px #4C36E8;
+		margin-left:10px;
+	}
+	TABLE td div{
+		width:500px;
+		height:220px;
+		background-color:#DAE6B1;
+		border:3px solid #999999;
+		border-radius:15px;
+		margin:10px;
+		padding:15px;
+		box-shadow:2px 2px 5px#2c2DD4;
+	}
+	.encabesado{
+		width:1025px;
+		height:100px;
+		background-color:#272f18;
+	}
+	.piepagina{
+		width:1025px;
+		height:100px;
+		background-color:#272f18;
+	}
